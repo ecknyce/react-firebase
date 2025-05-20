@@ -3,4 +3,45 @@
   
 }
 
+.form-group{
+  margin-bottom: 20px;
+  padding: 10px;
+  
+}
+.form-group label{
+  display: block;
+  width: 200px;
+}
+.form-group input{
+  height: 30px;
+  width: 250px;
+  font-size: 1.1rem;
+  padding: 2px 3px;
+}
+#savefruit{
+  background-color: rgb(127, 255, 212);
+  color: black;
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  width: 100px;
+  height: 40px;
+}
+
+#savefruit:hover{
+  background-color: rgba(110, 230, 210, 0.9);
+  color: white;
+}
+.nav-buttons button,.displayData{
+  background-color: rgb(79, 137, 137);
+  color: black;
+  border: none;
+  margin: 5px;
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+}
+.displayData{
+  background-color: rgb(138, 239, 6);
+}
 
